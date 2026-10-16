@@ -14,7 +14,7 @@ Each release has:
   or checksum does not match.
 - `.sha256` files for each download.
 
-An installed MDS checks this repository at most once a day and offers the update on its page.
+An installed MDS checks this repository when it opens, at most once an hour, and offers the update on its page; Settings → Updates → Check now asks at once.
 
 ## Licence
 
